@@ -1,0 +1,14 @@
+G:\Project\Registration details\Registration details\bin\Debug\Registration details.exe.config
+G:\Project\Registration details\Registration details\bin\Debug\Registration details.exe
+G:\Project\Registration details\Registration details\bin\Debug\Registration details.pdb
+G:\Project\Registration details\Registration details\bin\Debug\Registration details.xml
+G:\Project\Registration details\Registration details\obj\Debug\Registration_details.Form1.resources
+G:\Project\Registration details\Registration details\obj\Debug\Registration_details.Resources.resources
+G:\Project\Registration details\Registration details\obj\Debug\Registration details.vbproj.GenerateResource.cache
+G:\Project\Registration details\Registration details\obj\Debug\Registration details.vbproj.CoreCompileInputs.cache
+G:\Project\Registration details\Registration details\obj\Debug\Registration details.exe
+G:\Project\Registration details\Registration details\obj\Debug\Registration details.xml
+G:\Project\Registration details\Registration details\obj\Debug\Registration details.pdb
+G:\Project\Registration details\Registration details\obj\Debug\Registration_details.Register_form.resources
+G:\Project\Registration details\Registration details\obj\Debug\Registration details.vbprojAssemblyReference.cache
+G:\Project\Registration details\Registration details\obj\Debug\Registration_details.viewdetail.resources
